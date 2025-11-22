@@ -68,23 +68,31 @@ button {
 
 .section-one-main {
     display: flex;
-    justify-content: center;
-    gap: 48px;
+    justify-content: space-between;
+    flex-wrap: wrap;
     padding-top: 48px;
     padding-bottom: 96px;
+    gap: 48px;
+}
+
+.section-one-main-left {
+    flex: 1;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section-one-main-right {
     display: flex;
-    justify-content: center;
     align-items: center;
-    width: 100%;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section-one-main-right img {
-    width: 100%;
+    width: 333px;
     height: auto;
-    object-fit: cover;
 }
 
 .section-one-text-big {

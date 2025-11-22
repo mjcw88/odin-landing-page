@@ -14,3 +14,6 @@ The Landing Page project for the Odin Project - Foundations showcasing flexboxes
 
 - https://www.pexels.com/photo/sherlock-holmes-silhouette-at-baker-street-station-31604766/
 
+##### Live Preview
+
+- https://mjcw88.github.io/odin-landing-page/

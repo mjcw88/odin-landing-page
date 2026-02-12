@@ -1,8 +1,12 @@
-### The Odin Project - Landing Page
+# The Odin Project (Foundations) - Landing Page
 
-The Landing Page project for the Odin Project - Foundations showcasing flexboxes and html layouts.
+The landing page project for the Odin Project showcasing flexboxes and html layouts.
 
-##### Image sources:
+Full project specs can be found [here](https://www.theodinproject.com/lessons/foundations-landing-page).
+
+---
+
+#### Image sources:
 
 - https://www.pexels.com/photo/london-cityscape-460672/
 
@@ -13,6 +17,8 @@ The Landing Page project for the Odin Project - Foundations showcasing flexboxes
 - https://www.pexels.com/photo/red-bus-on-a-street-in-london-20152874/
 
 - https://www.pexels.com/photo/sherlock-holmes-silhouette-at-baker-street-station-31604766/
+
+---
 
 ##### Live Preview
 
